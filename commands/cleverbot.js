@@ -1,6 +1,6 @@
 const { Command } = require('discord-akairo');
 var cleverbot = require("cleverbot.io"),
-bot = new cleverbot("L4P6V0tdZ1orptsa", "H8K1HJI7yZIrHWVXY4jk9UfNwKrp83In");
+bot = new cleverbot("USER-APIKEY", "APIKEY");
 bot.setNick("Chiwa");
 class ClbotCommand extends Command {
     constructor() {
