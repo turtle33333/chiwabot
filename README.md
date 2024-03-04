@@ -1,1 +1,1 @@
-some disord bot lol
+some dicsord bot lol
